@@ -1,6 +1,6 @@
 {
   "name": "calculator",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "add": "^1.2.0",
+    "add": "^1.2.1",
     "div": "^1.2.0",
     "mul": "^1.2.0",
     "sub": "^1.2.0"
