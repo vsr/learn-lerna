@@ -1,5 +1,5 @@
 {
-  "name": "calculator",
+  "name": "@vinraiwip/calculator",
   "version": "1.2.3",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "add": "^1.2.3",
-    "div": "^1.2.1",
-    "mul": "^1.2.1",
-    "sub": "^1.2.0"
+    "@vinraiwip/add": "^1.2.3",
+    "@vinraiwip/div": "^1.2.1",
+    "@vinraiwip/mul": "^1.2.1",
+    "@vinraiwip/sub": "^1.2.0"
   },
   "gitHead": "c089a93469b690190ffe6e8e122447507d11e217"
 }

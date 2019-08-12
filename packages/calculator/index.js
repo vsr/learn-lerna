@@ -1,7 +1,7 @@
-const add = require('add');
-const sub = require('sub');
-const mul = require('mul');
-const div = require('div');
+const add = require('@vinraiwip/add');
+const sub = require('@vinraiwip/sub');
+const mul = require('@vinraiwip/mul');
+const div = require('@vinraiwip/div');
 
 module.exports = (args, operation) => {
     // comment
