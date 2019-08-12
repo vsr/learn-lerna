@@ -4,7 +4,6 @@ const mul = require('@vinraiwip/mul');
 const div = require('@vinraiwip/div');
 
 module.exports = (args, operation) => {
-    // comment
     switch (operation) {
         case 'add':
             return add(...args);
