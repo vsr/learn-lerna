@@ -1,6 +1,6 @@
 {
   "name": "@vinraiwip/calculator",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@vinraiwip/add": "^2.0.0",
-    "@vinraiwip/div": "^2.0.0",
-    "@vinraiwip/mul": "^2.0.0",
-    "@vinraiwip/sub": "^2.0.0"
+    "@vinraiwip/add": "^2.0.1",
+    "@vinraiwip/div": "^2.0.1",
+    "@vinraiwip/mul": "^2.0.1",
+    "@vinraiwip/sub": "^2.0.1"
   },
   "gitHead": "525059d6c181359fbe32270c659f3aabd677f954"
 }
