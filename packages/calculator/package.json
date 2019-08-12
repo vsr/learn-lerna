@@ -8,6 +8,7 @@
   },
   "keywords": [],
   "author": "",
+  "private": false,
   "license": "ISC",
   "dependencies": {
     "@vinraiwip/add": "^2.0.1",
@@ -15,5 +16,5 @@
     "@vinraiwip/mul": "^2.0.1",
     "@vinraiwip/sub": "^2.0.1"
   },
-  "gitHead": "525059d6c181359fbe32270c659f3aabd677f954"
+  "gitHead": "39b45f98920c74d777e044f2f769d0c34ccfa2f5"
 }
