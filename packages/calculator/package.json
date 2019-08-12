@@ -13,7 +13,7 @@
   "dependencies": {
     "@vinraiwip/add": "^2.0.3",
     "@vinraiwip/div": "^2.0.3",
-    "@vinraiwip/mul": "^2.0.3",
+    "@vinraiwip/mul": "2.0.3",
     "@vinraiwip/sub": "^2.0.4"
   },
   "gitHead": "3fa1f77882f3ace6d8681cdecabb48f5281b6051"
