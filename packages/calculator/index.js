@@ -4,6 +4,7 @@ const mul = require('mul');
 const div = require('div');
 
 module.exports = (args, operation) => {
+    // comment
     switch (operation) {
         case 'add':
             return add(...args);
